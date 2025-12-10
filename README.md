@@ -7,7 +7,7 @@ Restart Minecraft
 Vidoes-
 Prism*(and forks) (Linux+Windows)
 How to install: https://www.youtube.com/watch?v=B1-nTGGUQpc
--arch: https://www.youtube.com/watch?v=zqqKzikyooQ
+arch: https://www.youtube.com/watch?v=zqqKzikyooQ
 Mods: https://youtu.be/hDxjB9mIAoo?t=58
 
 CurseForge (Windows)
